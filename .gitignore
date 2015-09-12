@@ -280,3 +280,15 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#################
+# Pip Virtualenv
+#################
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+pip-selfcheck.json
